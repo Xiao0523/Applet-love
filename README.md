@@ -1,4 +1,4 @@
-# -Applet-love
+# Applet-love
 表白小程序
  -- 爱的宣誓
  -- 恋爱历程
